@@ -1,7 +1,7 @@
 # 🚛 Sistema de Ecosistema Logístico Inteligente
 
 > Práctica de Programación II — Ingeniería Informática, 2.º Semestre  
-> Docentes: Ma. Nieves Florentín & Arnaldo Ocampo
+> Docentes: Ma. Nieves Florentín & Arnaldo Ocampo                   
 > Miembros: Esteban López & Mauro Caballero
 
 ---
