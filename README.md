@@ -23,10 +23,11 @@ Sistema en Java que simula el núcleo de gestión logística de una **ciudad int
 
 ```
 src/main/java/
+├── Programa.java              # Programa ejecutable (main)
 ├── abstraccion/
 │   └── Vehiculo.java          # Clase abstracta base
 ├── interfaces/
-│   └── IConectable.java       # Interfaz de comportamiento (GPS/Cloud)
+│   └── IConectable.java       # Interfaz de comportamiento
 ├── polimorfismo/
 │   ├── CamionAutonomo.java    # Implementación específica
 │   ├── DronTransporte.java    # Implementación específica
